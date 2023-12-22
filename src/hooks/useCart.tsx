@@ -17,7 +17,7 @@ export const CartContextProvider = (props: {
     useEffect(() => {
         const storedCart = localStorage.getItem('shopping-cart')
     
-        if (storedCart) {
+        if (storedCart && storedCart !== null) {
           setCart(JSON.parse(storedCart))
         }
       }, [])
