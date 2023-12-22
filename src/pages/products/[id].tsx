@@ -1,5 +1,3 @@
-// pages/products/[id].tsx
-
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ReactNode } from "react";
@@ -29,10 +27,6 @@ export const getStaticPaths: GetStaticPaths = async () => {
   
     return { paths, fallback: false }
   }
-
-  // pages/products/[id].tsx
-
-// ...
 
 const Product: NextPage = (props: {
     children?: ReactNode
