@@ -1,6 +1,6 @@
 [
     {
-      "id": 1,
+      "id": 0,
       "name": "Macbook Air",
       "description": "Uma potência no ar. O chip M1 da Apple revolucionou nosso notebook mais fino e leve. A CPU e a GPU estão mais rápidas, até 3,5 vezes e até cinco vezes, respectivamente. Nosso Neural Engine avançado deixa o aprendizado de máquina até nove vezes mais veloz. A bateria oferece mais tempo de duração. E trocamos a ventoinha pelo silêncio. Nunca tanto desempenho esteve reunido em um MacBook Air.",
       "price": 12508.00,
@@ -8,7 +8,7 @@
       "inStock": 50
     },
     {
-      "id": 2,
+      "id": 1,
       "name": "Macbook Pro",
       "description": "Potência pura para profissionais. O MacBook Pro mais poderoso de todos chegou. Com os ultrarrápidos M1 Pro ou M1 Max, os primeiros chips da Apple feitos para profissionais, o novo MacBook Pro tem desempenho revolucionário e bateria com duração impressionante. Junte a isso uma tela Liquid Retina XDR espetacular, a melhor câmera e sistema de áudio em um notebook Mac e todas as portas que você poderia querer. Ele é diferente de tudo que veio antes. E é um fenômeno.",
       "price": 25979.00,
@@ -16,7 +16,7 @@
       "inStock": 50
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "iMac de 24 pol.",
       "description": "Diga olá para o novo iMac. Inspirado no que a Apple tem de melhor e elevado à potência do chip M1. Fica lindo em qualquer lugar. E se encaixa perfeitamente na sua vida.",
       "price": 16934.00,
@@ -24,7 +24,7 @@
       "inStock": 50
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Mac mini",
       "description": "Novo por dentro. Notável por inteiro. O chip M1 da Apple leva nosso desktop mais versátil e multifuncional a uma nova dimensão. O desempenho da CPU está até três vezes melhor, o da GPU, até seis vezes mais rápido, e nosso Neural Engine avançado deixa o aprendizado de máquina até 15 vezes mais veloz. Agora você pode trabalhar, jogar e criar no Mac mini com uma velocidade e potência que jamais imaginou.",
       "price": 8370.00,
